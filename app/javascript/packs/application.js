@@ -16,6 +16,16 @@ require("channels")
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
 
+// global.jQuery = require('jquery')
+// require('popper.js')
 require('./hello_react')
+
 require('bootstrap')
 import 'bootstrap/dist/css/bootstrap'
+
+// import $ from 'jquery';
+// import Popper from 'popper.js'
+
+// import 'jquery'
+// import '@popperjs/core'
+// import 'bootstrap/dist/css/bootstrap/bootstrap.esm.js'
