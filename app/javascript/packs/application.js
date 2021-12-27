@@ -18,7 +18,9 @@ require("channels")
 
 // global.jQuery = require('jquery')
 // require('popper.js')
-require('./hello_react')
+// require('./hello_react')
+
+require("./components/TodoApp");
 
 require('bootstrap')
 import 'bootstrap/dist/css/bootstrap'
